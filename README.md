@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jitd8cge0hj9s2ph?svg=true)](https://ci.ap pveyor.com/project/Antonina/installation-ci)
